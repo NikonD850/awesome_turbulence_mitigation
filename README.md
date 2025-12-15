@@ -29,9 +29,12 @@ https://github.com/Riponcs/Turb-Seg-Res
 ##### [ECCV'24] RLR-AT
 https://github.com/Shengqi77/Long-range-Turbulence-Mitigation
 
+##### [AVSS'25] MAMAT
+https://github.com/csprh/MAMAT
+
 ##### [CVPR'25] MambaTM
 https://github.com/xg416/MambaTM
 
 # Object Detection under Turbulence
 ##### [EUSIPCO'23] FasterRcnn_FPN_DCN
-https://github.com/disen-hu/FasterRcnn_FPN_DCN/tree/main
+https://github.com/disen-hu/FasterRcnn_FPN_DCN
