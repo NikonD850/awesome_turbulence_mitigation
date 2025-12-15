@@ -1,4 +1,4 @@
-# awesome_turbulence_mitigation
+# Awesome Turbulence Mitigation
 Awesome Open-Source w/pretrained-models Turbulence Mitigation Methods
 
 ## Deep Learning TM Methods
@@ -31,3 +31,7 @@ https://github.com/Shengqi77/Long-range-Turbulence-Mitigation
 
 ##### [CVPR'25] MambaTM
 https://github.com/xg416/MambaTM
+
+# Object Detection under Turbulence
+##### [EUSIPCO'23] FasterRcnn_FPN_DCN
+https://github.com/disen-hu/FasterRcnn_FPN_DCN/tree/main
